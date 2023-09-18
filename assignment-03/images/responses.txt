@@ -1,0 +1,3 @@
+ A text editor is simple and quick to use. One advantage of a text editor is that it is faster to make quick edits, and you are able to save editable files.
+
+ Relative URLs are more simple and convenient. But, there is more of an advantage using an absolute URL because it contains more information. 
